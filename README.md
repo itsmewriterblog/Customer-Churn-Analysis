@@ -128,7 +128,7 @@ Recommendations
 
 ## 📷 Dashboard Preview
 
-![Customer Churn Dashboard](Bg62.png)
+![Customer Churn Dashboard](customer_churn_dashboard.png)
 
 ## 🚀 Skills Demonstrated
 
